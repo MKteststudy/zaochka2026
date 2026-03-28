@@ -18,6 +18,7 @@
 			<div class="auth-buttons">
 				<a href="pages/login.php">Войти</a>
 				<a href="pages/register.php">Регистрация</a>
+h1
 			</div>
 		</main>
 
